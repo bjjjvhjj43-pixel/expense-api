@@ -1,4 +1,7 @@
-(วาง 4 บรรทัดจาก Colab ลงตรงนี้ เช่น scikit-learn==1.6.1 ฯลฯ)
+scikit-learn==1.6.1
+pandas==2.2.3
+joblib==1.5.3
+pythainlp==5.3.7
 flask
 flask-cors
 gspread
