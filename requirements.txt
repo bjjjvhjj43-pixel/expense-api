@@ -1,0 +1,6 @@
+(วาง 4 บรรทัดจาก Colab ลงตรงนี้ เช่น scikit-learn==1.6.1 ฯลฯ)
+flask
+flask-cors
+gspread
+oauth2client
+gunicorn
